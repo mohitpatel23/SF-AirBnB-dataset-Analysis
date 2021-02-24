@@ -1,5 +1,4 @@
-# CMPE255 Group Project
-San Francisco-Airbnb-data-analysis
+# San Francisco-Airbnb-data-analysis
 
 Instructions to run the code:
 
