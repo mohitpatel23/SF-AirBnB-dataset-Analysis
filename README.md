@@ -23,3 +23,6 @@ The 'data' folder contains the sample of our SF AirBnB dataset.
 
 The complete dataset can be found here : https://drive.google.com/drive/folders/1YUSHaE9kNkJaIgobpKvpN_D8DXIvrxzx?usp=sharing
 You will need to unzip the files in the drive and set appropriate path in the source code to run the program on the full dataset.
+
+## Contributors:
+Mohit, Mansi, Akansha
