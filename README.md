@@ -1,6 +1,14 @@
 # San Francisco-Airbnb-data-analysis
 
-Instructions to run the code:
+## Analysis performed:
+
+Analysis 1: Which parameters affect the listings price of Airbnb?
+Analysis 2: Which listings will yield maximum profit?
+Analysis 3: Seasonal Pattern of Prices
+Analysis 4: Sentiment Analysis Of Reviews & its relationship with Price
+Analysis 5: Recommending prices and doing host analysis for the listings
+
+## Instructions to run the code:
 
 Install the mentioned libraries:
 1) pandas
