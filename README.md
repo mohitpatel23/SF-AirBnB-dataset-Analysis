@@ -2,11 +2,11 @@
 
 ## Analysis performed:
 
-Analysis 1: Which parameters affect the listings price of Airbnb?
-Analysis 2: Which listings will yield maximum profit?
-Analysis 3: Seasonal Pattern of Prices
-Analysis 4: Sentiment Analysis Of Reviews & its relationship with Price
-Analysis 5: Recommending prices and doing host analysis for the listings
+Analysis 1: Which parameters affect the listings price of Airbnb? <br/>
+Analysis 2: Which listings will yield maximum profit? <br/>
+Analysis 3: Seasonal Pattern of Prices <br/>
+Analysis 4: Sentiment Analysis Of Reviews & its relationship with Price <br/>
+Analysis 5: Recommending prices and doing host analysis for the listings <br/>
 
 ## Instructions to run the code:
 
